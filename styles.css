@@ -108,6 +108,7 @@ ul {
     display: flex;
     justify-content: center;
     gap: 52px;
+    margin-bottom: 60px;
 }
 
 .random-info .info {
@@ -120,6 +121,74 @@ ul {
     text-align: center;
 }
 
+.quotes {
+    background-color: #e5e7eb;
+    font-size: 36px;
+    text-align: center;
+    color: #1f2937;
+}
+.quotes .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 80px 0;
+}
+
+.quote .author {
+    font-size: 25px;
+    text-align: right;
+    font-weight: bold;
+    color: #1f2937;
+    margin-top: 20px;
+}
+
+
+
+.action-container {
+    background-color: #3882f6;
+    width: 1200px;
+    height: 150px;
+    margin-top: 80px;
+    margin-bottom: 90px;
+    padding: 0 auto;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.action-container h1 {
+    font-size: 36px;
+    font-weight: extra-bold;
+    color: #f9faf8;
+}
+
+.action-container p {
+    font-size: 18px;
+    color: #f9faf8;
+}
+
+.action-container .btn {
+    background: transparent;
+    border: 2px solid #f9faf8;
+    padding: 15px 40px;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #f9faf8;
+}
+
+.footer {
+    background-color: #1f2937;
+    padding: 45px 0;
+}
+
+.footer p {
+    font-size: 18px;
+    color: #f9faf8;
+    text-align: center;
+}
 
 
 
