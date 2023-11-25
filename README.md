@@ -1,2 +1,2 @@
-# interior-design-landing-page
-Landing page for an interior design brand- Odin Project 
+# odin-project-landing-page
+Landing page- Odin Project 
